@@ -1,5 +1,4 @@
 #terraform gitignore
-
 # Local .terraform directories
 **/.terraform/*
 
